@@ -9,14 +9,15 @@ My journey towards embracing growth has led me to develop a passion for IT/cyber
 
 ## Skills
 
-| Skill                                         | Associated Project         | Links            |
-|-----------------------------------------------|----------------------------|------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://www.linkedin.com/pulse/purple-team-home-lab-using-different-sets-tools-joshua-dela-cruz/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Detection Lab</a>|
+| Exploring Netshell Wifi Passwords             | <a href="https://www.linkedin.com/pulse/wifi-password-using-netshell-joshua-dela-cruz-8oxoc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">CMD Lab</a>|
+| File Integrity Monitoring Using Python        | <a href="https://www.linkedin.com/pulse/basic-concept-fim-using-python-joshua-dela-cruz-kbgnc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Python Code</a>|
+| Wireshark Investigating Malicious Website     | <a href="https://www.linkedin.com/pulse/wireshark-from-basics-breach-joshua-dela-cruz-dbzoc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Network Analysis</a>|
+| Wireshark Investigating OskiStealer           | <a href="https://www.linkedin.com/pulse/wireshark-exploring-network-malware-infection-joshua-dela-cruz-4yjtc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Network Analysis</a>|
+| Dynamic Malware Analysis                      | <a href="https://www.linkedin.com/pulse/dynamic-malware-analysis-joshua-dela-cruz-m2g2c/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Malware Analysis</a>|
+| Metaspoit Reverse Shell                       | <a href="https://www.linkedin.com/pulse/metasploit-reverse-shell-joshua-dela-cruz-7nayc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">PenTest Lab</a>|
 
 ## Tools
 ### Network
@@ -54,9 +55,10 @@ My journey towards embracing growth has led me to develop a passion for IT/cyber
 </div>
 
 ## Projects
-- Detection Lab
-- File Integrity Monitoring Using Python
-- Wireshark Investigating Malicious Website
-- Wireshark Investigating OskiStealer
-- Dynamic Malware Analysis
-- Metaspoit Reverse Shell
+- <a href="https://www.linkedin.com/pulse/purple-team-home-lab-using-different-sets-tools-joshua-dela-cruz/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D"> SIEM Implementation and Log Analysis</a>
+- <a href="https://www.linkedin.com/pulse/wifi-password-using-netshell-joshua-dela-cruz-8oxoc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Exploring Netshell Wifi Passwords</a>
+- <a href="https://www.linkedin.com/pulse/basic-concept-fim-using-python-joshua-dela-cruz-kbgnc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">File Integrity Monitoring Using Python</a>
+- <a href="https://www.linkedin.com/pulse/wireshark-from-basics-breach-joshua-dela-cruz-dbzoc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Wireshark Investigating Malicious Website</a>
+- <a href="https://www.linkedin.com/pulse/wireshark-exploring-network-malware-infection-joshua-dela-cruz-4yjtc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Wireshark Investigating OskiStealer</a>
+- <a href="https://www.linkedin.com/pulse/dynamic-malware-analysis-joshua-dela-cruz-m2g2c/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Dynamic Malware Analysis</a>
+- <a href="https://www.linkedin.com/pulse/metasploit-reverse-shell-joshua-dela-cruz-7nayc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Metaspoit Reverse Shell</a>
