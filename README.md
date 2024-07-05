@@ -42,14 +42,15 @@ My journey towards embracing growth has led me to develop a passion for IT/cyber
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-NIST%20RMF-black?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Mitre%20Att&ck%20SOC%20CTI-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/TryHackMe%20Soc%20Level%201-4D4D4D?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-<img src="https://img.shields.io/badge/TryHackMe%20Soc%20Level%202-4D4D4D?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-<img src="https://img.shields.io/badge/TryHackMe%20DevSecOps-4D4D4D?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-<img src="https://img.shields.io/badge/TryHackMe%20Security%20Engineer-4D4D4D?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+<a href="https://www.credly.com/badges/64b95f89-2918-4e56-a345-5820b1bc7e23/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/48bce831-60f7-4518-9146-eedba0336bcc/linked_in_profile"><img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.linkedin.com/in/joshgdc/details/certifications/1705259544185/single-media-viewer/?profileId=ACoAAEDV9cABVS-aVQMClhw3HxroRTYFH2kmtR0"><img src="https://img.shields.io/badge/-NIST%20RMF-black?style=for-the-badge&logoColor=white" />
+<a href="https://www.linkedin.com/in/joshgdc/details/certifications/1705259779895/single-media-viewer/?profileId=ACoAAEDV9cABVS-aVQMClhw3HxroRTYFH2kmtR0"><img src="https://img.shields.io/badge/-Mitre%20Att&ck%20CTI-006400?&style=for-the-badge&logoColor=white" />
+<a href="https://www.linkedin.com/in/joshgdc/details/certifications/1705259975131/single-media-viewer/?profileId=ACoAAEDV9cABVS-aVQMClhw3HxroRTYFH2kmtR0"><img src="https://img.shields.io/badge/-Mitre%20Att&ck%20SOC-006400?&style=for-the-badge&logoColor=white" />
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VB4YIUYLX1.png"><img src="https://img.shields.io/badge/TryHackMe%20Soc%20Level%201-4D4D4D?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GHZPTWFHUO.png"><img src="https://img.shields.io/badge/TryHackMe%20Soc%20Level%202-4D4D4D?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WVMAFQX2G6.png"><img src="https://img.shields.io/badge/TryHackMe%20DevSecOps-4D4D4D?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Z5SZG7J1EA.png"><img src="https://img.shields.io/badge/TryHackMe%20Security%20Engineer-4D4D4D?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 
 
 </div>
