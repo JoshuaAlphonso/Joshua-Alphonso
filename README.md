@@ -17,7 +17,7 @@ My journey towards embracing growth has led me to develop a passion for IT/cyber
 | Wireshark Investigating Malicious Website     | <a href="https://www.linkedin.com/pulse/wireshark-from-basics-breach-joshua-dela-cruz-dbzoc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Network Analysis</a>|
 | Wireshark Investigating OskiStealer           | <a href="https://www.linkedin.com/pulse/wireshark-exploring-network-malware-infection-joshua-dela-cruz-4yjtc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Network Analysis</a>|
 | Dynamic Malware Analysis                      | <a href="https://www.linkedin.com/pulse/dynamic-malware-analysis-joshua-dela-cruz-m2g2c/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Malware Analysis</a>|
-| Metaspoit Reverse Shell                       | <a href="https://www.linkedin.com/pulse/metasploit-reverse-shell-joshua-dela-cruz-7nayc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">PenTest Lab</a>|
+| Metasploit Reverse Shell                       | <a href="https://www.linkedin.com/pulse/metasploit-reverse-shell-joshua-dela-cruz-7nayc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">PenTest Lab</a>|
 | Python                                        | <a href="https://github.com/JoshuaAlphonso/Python-Projects/tree/main/Cyber%20Python%20Projects">Coding Language</a>|
 
 ## Tools
@@ -63,5 +63,5 @@ My journey towards embracing growth has led me to develop a passion for IT/cyber
 - <a href="https://www.linkedin.com/pulse/wireshark-from-basics-breach-joshua-dela-cruz-dbzoc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Wireshark Investigating Malicious Website</a>
 - <a href="https://www.linkedin.com/pulse/wireshark-exploring-network-malware-infection-joshua-dela-cruz-4yjtc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Wireshark Investigating OskiStealer</a>
 - <a href="https://www.linkedin.com/pulse/dynamic-malware-analysis-joshua-dela-cruz-m2g2c/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Dynamic Malware Analysis</a>
-- <a href="https://www.linkedin.com/pulse/metasploit-reverse-shell-joshua-dela-cruz-7nayc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Metaspoit Reverse Shell</a>
+- <a href="https://www.linkedin.com/pulse/metasploit-reverse-shell-joshua-dela-cruz-7nayc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Metasploit Reverse Shell</a>
 - <a href="https://github.com/JoshuaAlphonso/Python-Projects/tree/main/Cyber%20Python%20Projects">Python Projects</a>
