@@ -18,6 +18,7 @@ My journey towards embracing growth has led me to develop a passion for IT/cyber
 | Wireshark Investigating OskiStealer           | <a href="https://www.linkedin.com/pulse/wireshark-exploring-network-malware-infection-joshua-dela-cruz-4yjtc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Network Analysis</a>|
 | Dynamic Malware Analysis                      | <a href="https://www.linkedin.com/pulse/dynamic-malware-analysis-joshua-dela-cruz-m2g2c/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Malware Analysis</a>|
 | Metaspoit Reverse Shell                       | <a href="https://www.linkedin.com/pulse/metasploit-reverse-shell-joshua-dela-cruz-7nayc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">PenTest Lab</a>|
+| Python                                        | <a href="https://github.com/JoshuaAlphonso/Python-Projects/tree/main/Cyber%20Python%20Projects">Coding Language</a>|
 
 ## Tools
 ### Network
