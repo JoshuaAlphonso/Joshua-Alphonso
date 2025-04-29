@@ -43,6 +43,7 @@ My journey towards embracing growth has led me to develop a passion for IT/cyber
 
 ## Certifications
 <div>
+<a href="https://www.credly.com/badges/597d046f-dcda-474b-8e9b-a2aee779758b/linked_in_profile"><img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <a href="https://www.credly.com/badges/64b95f89-2918-4e56-a345-5820b1bc7e23/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <a href="https://www.credly.com/badges/48bce831-60f7-4518-9146-eedba0336bcc/linked_in_profile"><img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <a href="https://www.linkedin.com/in/joshgdc/details/certifications/1705259544185/single-media-viewer/?profileId=ACoAAEDV9cABVS-aVQMClhw3HxroRTYFH2kmtR0"><img src="https://img.shields.io/badge/-NIST%20RMF-black?style=for-the-badge&logoColor=white" />
