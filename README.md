@@ -42,10 +42,11 @@ My journey towards embracing growth has led me to develop a passion for IT/cyber
 </div>
 
 ### Other Security Tools
-</div>
+<div>
     <img src="https://img.shields.io/badge/-LimaCharlie-000000?&style=for-the-badge&logo=data:image/svg+xml;base64," />
     <img src="https://img.shields.io/badge/-Tines-1D3557?&style=for-the-badge&logoColor=white" />
 </div>
+
 
 ## Certifications
 <div>
