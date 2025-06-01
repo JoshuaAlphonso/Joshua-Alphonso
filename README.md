@@ -42,7 +42,7 @@ My journey towards embracing growth has led me to develop a passion for IT/cyber
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-### Other Security Tools
+### Other Tools
 <div>
     <img src="https://img.shields.io/badge/-Tines-1D3557?&style=for-the-badge&logoColor=white" />
 </div>
