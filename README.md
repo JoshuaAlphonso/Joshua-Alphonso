@@ -41,6 +41,12 @@ My journey towards embracing growth has led me to develop a passion for IT/cyber
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Other Security Tools
+</div>
+    <img src="https://img.shields.io/badge/-LimaCharlie-000000?&style=for-the-badge&logo=data:image/svg+xml;base64," />
+    <img src="https://img.shields.io/badge/-Tines-1D3557?&style=for-the-badge&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <a href="https://www.credly.com/badges/597d046f-dcda-474b-8e9b-a2aee779758b/linked_in_profile"><img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
