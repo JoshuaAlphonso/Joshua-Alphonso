@@ -66,6 +66,7 @@ My journey towards embracing growth has led me to develop a passion for IT/cyber
 </div>
 
 ## Projects
+- <a href="https://github.com/JoshuaAlphonso/SOAR-EDR-Project"> SOAR EDR Automation Lab</a>
 - <a href="https://www.linkedin.com/pulse/purple-team-home-lab-using-different-sets-tools-joshua-dela-cruz/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D"> SIEM Implementation and Log Analysis</a>
 - <a href="https://www.linkedin.com/pulse/wifi-password-using-netshell-joshua-dela-cruz-8oxoc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Exploring Netshell Wifi Passwords</a>
 - <a href="https://www.linkedin.com/pulse/basic-concept-fim-using-python-joshua-dela-cruz-kbgnc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">File Integrity Monitoring Using Python</a>
