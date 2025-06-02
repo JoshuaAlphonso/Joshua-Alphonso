@@ -11,8 +11,8 @@ My journey towards embracing growth has led me to develop a passion for IT/cyber
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|    Test                                       |<a href="https://github.com/JoshuaAlphonso/SOAR-EDR-Project">Automation Lab</a>|  
-| SIEM Implementation and Log Analysis           | <a href="https://www.linkedin.com/pulse/purple-team-home-lab-using-different-sets-tools-joshua-dela-cruz/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Detection Lab</a>|
+|SOAR-EDR Project                               |<a href="https://github.com/JoshuaAlphonso/SOAR-EDR-Project">Automation Lab</a>|  
+| SIEM Implementation and Log Analysis          | <a href="https://www.linkedin.com/pulse/purple-team-home-lab-using-different-sets-tools-joshua-dela-cruz/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Detection Lab</a>|
 | Exploring Netshell Wifi Passwords             | <a href="https://www.linkedin.com/pulse/wifi-password-using-netshell-joshua-dela-cruz-8oxoc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">CMD Lab</a>|
 | File Integrity Monitoring Using Python        | <a href="https://www.linkedin.com/pulse/basic-concept-fim-using-python-joshua-dela-cruz-kbgnc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Python Code</a>|
 | Wireshark Investigating Malicious Website     | <a href="https://www.linkedin.com/pulse/wireshark-from-basics-breach-joshua-dela-cruz-dbzoc/?trackingId=HQyrNFCISoe62yuMDEayUQ%3D%3D">Network Analysis</a>|
